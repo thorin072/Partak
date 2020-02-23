@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Partak</string>
+    <string name="action_settings">Настройки</string>
+    <string name="button_erase">Стереть партак</string>
+    <string name="button_set_color">Готово</string>
+    <string name="button_set_inst">Yep!</string>
+    <string name="button_set_about">OK!</string>
+    <string name="button_set_line_width">Готово</string>
+    <string name="line_imageview_description">Дисплей линии</string>
+    <string name="label_alpha">Альфа</string>
+    <string name="label_red">Красный</string>
+    <string name="label_green">Зеленый</string>
+    <string name="label_blue">Синий</string>
+    <string name="menuitem_delete">Очистить</string>
+    <string name="menuitem_color">Цвет</string>
+    <string name="menuitem_line_width">Толщина линии</string>
+    <string name="menuitem_send">Отправить</string>
+    <string name="menuitem_about">О приложении</string>
+    <string name="menuitem_inst">Инстаграмм</string>
+    <string name="menuitem_aws">AWS</string>
+    <string name="message_inst1">Укажите свой никнейм в Instagram</string>
+    <string name="message_inst2">Ваш ник будет использован в следующих целях:\n
+    - Ваш рисунок и Вы будете отмечены в историях нашего аккаунта.\n
+        - Индивидуализация каждой работы и ускорее обработки роботом.
+    </string>
+    <string name="menuitem_send_qr">Полученый QR code в очереди:</string>
+    <string name="menuitem_send_aws">Отправить на сервер</string>
+    <string name="message_qr_success">Для Вас был сгенирирован QR ключ.\nQR ключ используется в целях ускорения обработки поступивших изображений.\nЧтобы робот нарисовал Ваше изображение распознайте Ваш QR ключ с помощью веб-камеры.</string>
+    <string name="message_erase">Хотите нарисовать новый партак?</string>
+    <string name="message_error_saving">Ошибка сохранения :(</string>
+    <string name="message_success_aws">Успешно! Ваш рисунок был передан на сервер и будет обработан как только будет распознан Ваш QR code.</string>
+    <string name="message_error_aws">Неудача! Ваш рисунок НЕ БЫЛ передан на сервер. Возможные ошибки:\nОтключен мобильный интернет!\nПовторите отправку позднее</string>
+    <string name="message_qr_error">QR code не был сгенерирован, поскольку файл не был отправлен!</string>
+    <string name="cance_button">Отменить</string>
+
+    <string name="message_step_1">Нарисуйте рисунок на белом холсте.\nВы можете изменить толщину и цвет\nкисти в настройках!</string>
+    <string name="message_step_2">Чтобы Dobot-робот нарисовал Ваш\nрисунок отправьте его на сервер\n(Меню -> Отправить на сервер)  </string>
+    <string name="message_step_3">Наслаждайтесь!</string>
+    <string name="footer_about">Дизайн и разработка: @eee.gorin\nv 1.0.0</string>
+
+
+
+
+
+
+
+
+
+    <string name="message_saved">Your saved painting can be viewed in the Photos app by selecting Device Folders from that app\'s menu</string>
+    <string name="title_color_dialog">Выбор цвета</string>
+    <string name="title_line_width_dialog">Выбор размера кисти</string>
+    <string name="permission_explanation">Чтобы отправить партак на обработку разрешите доступ к памяти!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
